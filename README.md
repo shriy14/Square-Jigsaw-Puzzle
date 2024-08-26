@@ -26,13 +26,13 @@ This script implements a 3x3 puzzle game. Similar to the 2x2 game, the pieces ar
 ## How to Run
 
 1. Ensure that you have the required resources folder in the same directory as the scripts. The resources folder should contain:
-        background.png: Background image for the game.
-        icon.png: Icon for the game window.
-        static_logo.png: The logo displayed in the game.
-        image1.jpg: The final image the player has to recreate by arranging the pieces.
-        puzzles/2/: Directory containing 2x2 puzzle pieces in .jpg format.
-        puzzles/3/: Directory containing 3x3 puzzle pieces in .jpg format.
-        fonts/: Folder containing custom font files.
+     - background.png: Background image for the game.
+     - icon.png: Icon for the game window.
+     - static_logo.png: The logo displayed in the game.
+     - image1.jpg: The final image the player has to recreate by arranging the pieces.
+     - puzzles/2/: Directory containing 2x2 puzzle pieces in .jpg format.
+     - puzzles/3/: Directory containing 3x3 puzzle pieces in .jpg format.
+     - fonts/: Folder containing custom font files.
 
 2. Run the Python script:
 
